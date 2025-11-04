@@ -14,7 +14,10 @@ This notebook builds a machine-learning model to predict traffic volume.
 - **Model:** LSTM (time-series forecasting)  
 - **Reason:** captures temporal dependencies in traffic data  
 - **Preprocessing:** handled missing values, scaled data, created window sequences  
-- **Performance:** achieved ≈ [add your metric, e.g. RMSE = 0.23]  
+- **Performance:** achieved ≈
+- Final Results in MPH 
+  FINAL MAE (Mean Absolute Error): 2.44 MPH
+  FINAL RMSE (Root Mean Square Error): 5.14 MPH
 - **Strengths:** good trend prediction  
 - **Weaknesses:** less accurate for sudden events/outliers  
 
