@@ -15,7 +15,6 @@ This notebook builds a machine-learning model to predict traffic volume.
 - **Reason:** captures temporal dependencies in traffic data  
 - **Preprocessing:** handled missing values, scaled data, created window sequences  
 - **Performance:** achieved ≈
-- Final Results in MPH 
   FINAL MAE (Mean Absolute Error): 2.44 MPH
   FINAL RMSE (Root Mean Square Error): 5.14 MPH
 - **Strengths:** good trend prediction  
